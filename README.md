@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Demetris Papaconstantinou! 👋
 
 <!--
 **DemetrisPapaconstantinou/DemetrisPapaconstantinou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A passionate Software Developer (specializing in <b>Web</b> and <b>Mobile</b> development).<br>
+I like to learn new technologies and how to apply them.
