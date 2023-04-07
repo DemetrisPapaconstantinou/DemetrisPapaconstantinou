@@ -19,5 +19,5 @@ A passionate Software Developer (specializing in <b>Web</b> and <b>Mobile</b> de
 I like to learn new technologies and how to apply them.<br><br>
 <b>Languages:</b><br>
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,py,mysql,postgres,jquery,js,html,css&theme=light)](https://skillicons.dev)<br>
-<b>Tools:</b><br>
+<b>IDEs and Tools:</b><br>
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,idea,androidstudio,postman,git&theme=light)](https://skillicons.dev)
