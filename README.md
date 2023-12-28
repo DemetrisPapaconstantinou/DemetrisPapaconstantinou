@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A passionate Software Engineer (specializing in <b>Web</b> and <b>Mobile</b> development).<br>
+I am a passionate Software Engineer (specializing in <b>Web</b> and <b>Mobile</b> development).<br>
 I like to learn new technologies and how to apply them.<br><br>
 <b>Languages:</b><br>
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,py,mysql,postgres,jquery,js,html,css&theme=light)](https://skillicons.dev)<br>
